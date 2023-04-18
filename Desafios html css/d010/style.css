@@ -1,0 +1,92 @@
+@charset "utf-8";
+@font-face{font-family: fonte001;
+    src:url(fontes/idroid.otf);
+
+}
+body{
+    margin: 0%;
+    background-color:rgb(128, 236, 177);
+    font-family: Arial, Helvetica, sans-serif;
+ 
+   
+}
+header{background-image: linear-gradient(to top , #0f4938a1,rgb(62, 189, 119));
+  color: aliceblue;
+
+    
+
+} 
+
+main{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    margin-left: 80px;
+    margin-right: 80px;
+
+}
+
+footer{
+  
+   background-color:rgb(62, 189, 119);
+   
+    text-align: center;
+   
+}
+
+header>h1{
+    text-align: center;
+   
+
+}
+header>p{
+    text-align: center;}
+
+h2{ 
+    margin-left: 30px;
+  font-family: fonte001;
+  color: rgb(21, 95, 55);
+
+}
+main>p{
+    margin-left: 15px;
+}
+
+    
+   body>header>div{
+   font-size: 18px;
+ 
+
+   }
+  
+
+main>#video{
+    text-align: center;
+    
+}
+main>div{
+    background-color: rgba(130, 233, 176, 0.658);
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 20px;
+    margin-top:60px ;
+    margin-bottom: 60px;
+
+}
+main>div>h3{
+    text-align: center;
+    background-color: rgba(83, 187, 135, 0.24);
+    border-left: 20px;
+    border-right: 20px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+  
+main>div>p{
+    margin-left: 20px;
+    
+}
+   
+   
+    
+   
+
